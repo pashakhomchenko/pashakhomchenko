@@ -13,5 +13,5 @@ Also check out my [website](https://pashakhomchenko.com/) and [Replit](https://r
 
 ## Projects 🏗️
 
-- TessX: an attempt to fix the horrible Trademark Electronic Search System (TESS) with much nicer UI and better search abstractions, check out the code and demo on [Replit](https://replit.com/@pashakhomchenko/TESSx)
+- TESSx: an attempt to fix the horrible Trademark Electronic Search System (TESS) with much nicer UI and better search abstractions, check out the code and demo on [Replit](https://replit.com/@pashakhomchenko/TESSx)
 - UMich Guide: Maize Pages, the University of Michigan club directory, sucks, so we are building a better version - here are the [frontend](https://github.com/ruhaan15/betterumichguide) and [backend](https://github.com/ruhaan15/betterumichguide-server)
