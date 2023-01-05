@@ -13,6 +13,6 @@ Also check out my [website](https://pashakhomchenko.com/) and [Replit](https://r
 
 ## Projects 🏗️
 
-- TESSx: an attempt to fix the horrible Trademark Electronic Search System (TESS) with much nicer UI and better search abstractions, check out the code and demo on [Replit](https://replit.com/@pashakhomchenko/TESSx)
-- UMich Guide: Maize Pages, the University of Michigan club directory, sucks, so we are building a better version - here are the [frontend](https://github.com/ruhaan15/betterumichguide), [backend](https://github.com/ruhaan15/betterumichguide-server), and the actual [webiste](https://www.maizepages.org/clubs)
-- Twitter Ad Blocker: Chrome extention for blocking ads and making UI cleaner - install [here](https://chrome.google.com/webstore/detail/twitter-ad-blocker/dhlbmiajajiiploeagcijnmnfiphgmdc)
+- [TESSx](https://tessx.pashakhomchenko.repl.co/): an attempt to fix the horrible Trademark Electronic Search System (TESS) with much nicer UI and better search abstractions | [Code](https://replit.com/@pashakhomchenko/TESSx)
+- [UMich Guide](https://www.maizepages.org/clubs): Maize Pages, the University of Michigan club directory, sucks, so we are building a better version | [Frontend](https://github.com/ruhaan15/betterumichguide), [Backend](https://github.com/ruhaan15/betterumichguide-server)
+- [Twitter Ad Blocker](https://chrome.google.com/webstore/detail/twitter-ad-blocker/dhlbmiajajiiploeagcijnmnfiphgmdc): Chrome extention for blocking ads and making UI cleaner | [Code](https://github.com/pashakhomchenko/TwitterAdBlocker)
