@@ -1,6 +1,6 @@
 # Hey, I'm Pasha 👋
 
-I am a CS major at the University of Michigan. My main expertise is in Full-Stack Development (React, Next.js, Flask), but I want to explore more areas in-depth: AI/ML, Backend, AR/VR, Quant. I've been a Software Engineering Intern at an early-stage startup accelerator where I worked on a bunch of different projects (take a look at them on my [website](https://pashakhomchenko.com/)). I am always open to meeting people working on interesting products and projects. Please reach out at any time if you'd like to build something cool together!
+I am a CS major at the University of Michigan. I have experience with Full-Stack Development (React, Next.js, Flask), and I'm very interested in building creative and scientific tools that combine great software with advanced AI models and push the boundaries of human abilities forward. I've been a Software Engineering Intern at an early-stage startup accelerator where I worked on a bunch of different projects (take a look at them on my [website](https://pashakhomchenko.com/)). I am always open to meeting people working on interesting products and projects. Please reach out at any time if you'd like to build something cool together!
 
 Also check out my [website](https://pashakhomchenko.com/) and [Replit](https://replit.com/@pashakhomchenko)!
 
