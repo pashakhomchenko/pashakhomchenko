@@ -6,7 +6,7 @@ Also check out my [website](https://pashakhomchenko.com/) and [Replit](https://r
 
 ## About 📝
 
-- 🏗️ [Projects](https://pashakhomchenko.com/
+- 🏗️ [Projects](https://pashakhomchenko.com/)
 - 🌱 I’m currently learning operating systems, some proof-based analysis (I love math btw), and programming paradigms, while trying to get better at Python
 - 👯 I’m looking to collaborate on any cool projects in the areas that I mentioned above
 - 💬 Ask me about electronic music production in Ableton, why visual art is so freaking cool, and my favorite films
